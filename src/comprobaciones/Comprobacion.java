@@ -1,4 +1,4 @@
-package comprobaciones
+package comprobaciones;
 
 import dominio.*;
 
