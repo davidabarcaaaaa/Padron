@@ -1,5 +1,6 @@
 package comprobaciones
 
+import dominio.*;
 
 import java.util.ArrayList;
 
