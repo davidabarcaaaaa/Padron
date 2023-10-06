@@ -1,14 +1,10 @@
 
 package aplicacion;
 
-import dominio.*;
+import presentacion.*;
 
-
-
-public class Principal {
-	public static void main(String[] args){
+public class Principal{
+	public static void main(String[] args){ 
 		InterfazUsuario.ejecutar(args);
-
 	}
-
 }
