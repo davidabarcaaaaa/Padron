@@ -1,6 +1,7 @@
 package comprobaciones;
 
-import dominio.*;
+import dominio.Habitante;
+import dominio.OficinaPadron;
 
 import java.util.ArrayList;
 
